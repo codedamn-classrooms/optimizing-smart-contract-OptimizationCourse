@@ -6,7 +6,8 @@ contract optimize {
         uint256 a = 2;
         uint256 b = 3;
 
-        require(b > a, "b is not greater than a");
+     
         return a + b;
+        require(b > a, "b is not greater than a");
     }
 }
