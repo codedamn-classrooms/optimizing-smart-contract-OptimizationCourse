@@ -10,14 +10,4 @@ contract optimize {
         }
     }
 
-    //solution
-    //uint256 num = 0;
-
-    // function lessExpensiveLoop(uint x) public {
-    //   uint temp = num;
-    //   for(uint i = 0; i < x; i++) {
-    //     temp += 1;
-    //   }
-    //   num = temp;
-    // }
 }
