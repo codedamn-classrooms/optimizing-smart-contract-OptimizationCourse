@@ -1,1 +1,3 @@
-tabs: ["contracts/Lib6.sol"]
+tabs: ['contracts/Lib6.sol']
+terminals: ['yarn install']
+run-button: truffle compile
