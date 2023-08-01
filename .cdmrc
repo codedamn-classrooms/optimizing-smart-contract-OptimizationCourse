@@ -1,1 +1,3 @@
-tabs: ["contracts/Slot2.sol"]
+tabs: ['contracts/Slot2.sol']
+terminals: ['yarn install']
+run-button: truffle compile
