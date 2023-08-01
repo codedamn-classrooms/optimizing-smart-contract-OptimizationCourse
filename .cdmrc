@@ -1,1 +1,3 @@
-tabs: ["contracts/storage5.sol"]
+tabs: ['contracts/storage5.sol']
+terminals: ['yarn install']
+run-button: truffle compile
