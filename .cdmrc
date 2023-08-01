@@ -1,1 +1,3 @@
-tabs: ["contracts/optimize14.sol"]
+tabs: ['contracts/optimize14.sol']
+terminals: ['yarn install']
+run-button: truffle compile
