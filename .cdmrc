@@ -1,1 +1,3 @@
-tabs: ["contracts/deadcode3.sol"]
+tabs: ['contracts/deadcode3.sol']
+terminals: ['yarn install']
+run-button: truffle compile
